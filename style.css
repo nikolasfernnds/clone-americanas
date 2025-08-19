@@ -1,0 +1,33 @@
+body{
+    background-color: #f1f1f1;
+}
+
+header{
+    height: 150px;
+    width: 100%;
+    background-color: #ed0030;
+    display: flex;
+    justify-content: center;
+}
+
+header section img{
+    width: 150px;
+}
+
+#logo-search {
+    height: 150px;
+    width: 1000px;
+    align-items: center;
+    display: flex
+}
+
+.search-input{
+    width: 450px;
+    height: 40px;
+    border-radius: 10px;
+    border: #f1f1f1;
+    padding-left: 15px;
+}
+.search-container{
+    padding-left: 60px;
+}
